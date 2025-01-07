@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BTCCompose</string>
+
+    <string name="dailyPercent">%%%1$s</string>
+    <string name="titleBtc">Pairs</string>
+    <string name="titleBtcFavorite">Favorites</string>
+    <string name="searchCrypto">Search pairs…</string>
+    <string name="clear">Clear</string>
+    <string name="networkTitleDialogError">hata</string>
+    <string name="networkRetryDialogError">Try Again</string>
+    <string name="networkCloseDialogError">Close</string>
+    <string name="Bitcoin">₿</string>
+    <string name="cryptoTracker">Crypto Tracker</string>
+    <string name="cryptoTrack">Track • Trade • Thrive</string>
+    <string name="dialogExceptions">An unknown error occurred</string>
+    <string name="dialogExceptionsTitle">Error</string>
+    <string name="dialogExceptionsOk">OK</string>
+    <string name="no_internet_error">There is no internet connection. Please check your connection.</string>
+
+</resources>
