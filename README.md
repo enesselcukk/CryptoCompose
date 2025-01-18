@@ -125,5 +125,4 @@ BtcCompose is a modern Bitcoin tracking application developed using Jetpack Comp
    - Semantic Testing
 
 ## Screenshots 📸
-
-https://github.com/user-attachments/assets/c989c34d-501f-46d2-a3fc-47d04693fc07
+https://github.com/user-attachments/assets/78b81c1d-4467-4168-9737-d33a4ae0bc47
