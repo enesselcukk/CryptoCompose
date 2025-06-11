@@ -271,6 +271,7 @@ private fun BitcoinCard(
                         defaultElevation = 4.dp
                     )
                 ) {
+
                     Box(
                         modifier = Modifier
                             .fillMaxSize()
